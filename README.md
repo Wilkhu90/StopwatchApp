@@ -1,2 +1,2 @@
 # StopwatchApp
-Android App for demonstration of how stop watch works. 
+Android App for demonstration of how stopwatch works.
